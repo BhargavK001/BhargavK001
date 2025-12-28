@@ -12,8 +12,9 @@ Hi, I’m Bhargav Karande 👋 — a 21-year-old final year Electronics & Teleco
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhargavk001&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavk001&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhargavk001&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=bhargavk001&theme=onedark&no-frame=true&no-bg=false&margin-w=5)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhargavk001&icon=0&color=0)](https://visitcount.itsvg.in)
