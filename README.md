@@ -1,5 +1,47 @@
 # 💫 About Me:
-Hi, I’m Bhargav Karande 👋 — a 21-year-old final year Electronics & Telecommunication Engineering student who loves building real-world tech solutions. I enjoy working with MERN Stack, Machine Learning, and IoT, and I’m passionate about creating projects that actually solve problems rather than just staying as college submissions 🚀<br>Outside tech, I enjoy learning new things, exploring ideas, and constantly improving myself 🙂<br><br>Currently working on<br><br>⚙️ Predictive Maintenance System using ML + IoT<br><br>🌐 OneCare – a MERN-based real-life web application<br><br>Learning & Growing In<br><br>📚 Advanced MERN Development<br><br>☁️ Cloud & Deployment<br><br>🤖 AI & Automation<br><br>Interests<br><br>💻 Full-Stack Development<br><br>🤖 AI / ML<br><br>🔌 IoT & Automation<br><br>Ask me about<br><br>🧑‍💻 MERN Development<br><br>🧠 Machine Learning Basics<br><br>🛠️ IoT & Raspberry Pi
+<h1 align="center">👋 Hi, I’m <b>Bhargav Karande</b></h1>
+
+<p align="center">
+🎓 Final-year Electronics & Telecommunication Engineering student <br>
+💻 MERN | ML | IoT • 🚀 Building real-world tech solutions • 🙂 Constant Learner
+</p>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚧 Currently Working On</h3>
+
+- ⚙️ Predictive Maintenance System (ML + IoT)
+- 🌐 OneCare — Real-life MERN Healthcare Project
+
+<h3>📚 Learning & Growing In</h3>
+
+- 💻 Advanced MERN Development  
+- ☁️ Cloud & Deployment  
+- 🤖 AI & Automation  
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎯 Interests</h3>
+
+- 💻 Full-Stack Development  
+- 🤖 AI / ML  
+- 🔌 IoT & Automation  
+
+<h3>💬 Ask Me About</h3>
+
+- 🧑‍💻 MERN Development  
+- 🧠 Machine Learning Basics  
+- 🛠️ IoT & Raspberry Pi  
+
+</td>
+</tr>
+</table>
+
 
 
 ## 🌐 Socials:
