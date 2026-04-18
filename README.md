@@ -15,9 +15,7 @@
 <h3>🚧 Currently Working On</h3>
 
 - 💰 **BudgetTracko** — Personal Finance Management App
-- 🚜 **AgroNond** — Agricultural Marketplace Platform
 - ⚙️ Predictive Maintenance System (ML + IoT)
-- 🌐 OneCare — Real-life MERN Healthcare Project
 
 <h3>📚 Learning & Growing In</h3>
 
