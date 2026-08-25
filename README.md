@@ -15,7 +15,7 @@
 <h3>🚧 Currently Working On</h3>
 
 - 💰 **BudgetTracko** — Personal Finance Management App
-- ⚙️ Predictive Maintenance System (ML + IoT)
+
 
 <h3>📚 Learning & Growing In</h3>
 
